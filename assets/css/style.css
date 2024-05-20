@@ -599,7 +599,7 @@
         color: var(--white);
         text-transform: capitalize;
         font-weight: 600;
-        font-size: inherit;
+        font-size: inherit!important;
         position: relative;
         display: inline-block;
     }
