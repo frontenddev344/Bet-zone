@@ -1,11 +1,11 @@
 @media(min-width:1400px) {
-    .sub-banner {
+    /* .sub-banner {
         height: 650px;
-    }
+    } */
 
-    .site-banner {
+    /* .site-banner {
         height:500px;
-    }
+    } */
 
 }
 
@@ -26,9 +26,9 @@
         font-size: 35px;
     }
 
-    .topcontent-picture img {
+    /* .topcontent-picture img {
         height: 450px;
-    }
+    } */
 
     .footer-heading h4,
     h4 {
@@ -94,10 +94,10 @@
     .sub-banner-txt h2 {
         font-size: 35px;
     }
-
+/* 
     .sub-banner {
         height: 400px;
-    }
+    } */
 
     .read-more-btn a {
         font-size: 14px;
@@ -112,9 +112,9 @@
         margin-bottom: 15px;
     }
 
-    .sub-banner {
+    /* .sub-banner {
         height: 350px;
-    }
+    } */
 
     .read-more-btn {
         margin-top: 15px;
@@ -280,9 +280,9 @@
         font-size: 20px;
     }
 
-    .site-banner {
+    /* .site-banner {
         height: 450px;
-    }
+    } */
 
     .top-card-txt .read-more-btn {
         margin-top: 20px;
@@ -368,9 +368,9 @@
         height: 250px;
     }
 
-    .sub-banner {
+    /* .sub-banner {
         height: 300px;
-    }
+    } */
 
     .sub-banner-txt h2 {
         font-size: 28px;
