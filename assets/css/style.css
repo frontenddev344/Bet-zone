@@ -172,7 +172,7 @@
 
     .site-banner.index {
         background-image: url(../images_1/slide1.jpg);
-        height: 700px!important;
+        /* height: 700px!important; */
 
     }
 
@@ -300,7 +300,7 @@
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 450px;
+        /* height: 450px; */
         position: relative;
     }
 
