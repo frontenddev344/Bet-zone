@@ -172,7 +172,7 @@
 
     .site-banner.index {
         background-image: url(../images_1/slide1.jpg);
-        /* height: 700px!important; */
+        height: 700px!important;
 
     }
 
@@ -207,13 +207,8 @@
     }
 
     .site-banner.nightlife {
-        background-image: url(../images_1/greece_banner.webp);
-        background-position: center!important;
-        background-size:cover!important;
-    background-repeat: no-repeat!important;
-    height: auto!important;
-    padding: 50px 0!important;
-
+        background-image: url(../images_1/nightlife_banner.jpg);
+        
 
     }
 
@@ -284,7 +279,7 @@
     }
 
     .topcontent-picture img {
-        /* height: 500px; */
+        height: 500px;
         object-fit: cover;
     }
 
@@ -300,7 +295,7 @@
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
-        /* height: 450px; */
+        height: 450px;
         position: relative;
     }
 
