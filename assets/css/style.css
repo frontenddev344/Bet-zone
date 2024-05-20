@@ -172,7 +172,7 @@
 
     .site-banner.index {
         background-image: url(../images_1/slide1.jpg);
-        background-size: 100% 100%!important;
+        /* background-size: 100% 100%!important; */
 
     }
 
