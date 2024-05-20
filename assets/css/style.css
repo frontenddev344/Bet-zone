@@ -208,10 +208,10 @@
 
     .site-banner.nightlife {
         background-image: url(../images_1/nightlife_banner.jpg);
-        background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+        background-position: center!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+
 
     }
 
