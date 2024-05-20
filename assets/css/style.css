@@ -166,37 +166,38 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        height: 95vh;
+        height:500px;
         position: relative;
     }
 
     .site-banner.index {
         background-image: url(../images_1/slide1.jpg);
+        height: 700px!important;
 
     }
 
     .site-banner.montey {
-        background-image: url(../images_1/sub-banner01.jpg);
+        background-image: url(../images_1/monte_banner.jpg);
 
     }
 
     .site-banner.london {
-        background-image: url(../images_1/sub-banner-02.jpg);
+        background-image: url(../images_1/london_banner.jpg);
 
     }
 
     .site-banner.netherlands {
-        background-image: url(../images_1/sub-banner-03.jpg);
+        background-image: url(../images_1/netherland_banner.avif);
 
     }
 
     .site-banner.greece {
-        background-image: url(../images_1/sub-banner-04.jpg);
+        background-image: url(../images_1/greece_banner.webp);
 
     }
 
     .site-banner.switzerland {
-        background-image: url(../images_1/sub-banner-05.jpg);
+        background-image: url(../images_1/switzerland_banner.jpg);
 
     }
 
@@ -206,7 +207,7 @@
     }
 
     .site-banner.nightlife {
-        background-image: url(../images_1/sub-banner-04.jpg);
+        background-image: url(../images_1/nightlife_banner.jpg);
 
     }
 
