@@ -166,7 +166,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        height:500px;
+        height: 500px;
         position: relative;
     }
 
@@ -208,7 +208,7 @@
 
     .site-banner.nightlife {
         background-image: url(../images_1/nightlife_banner.jpg);
-        
+
 
     }
 
@@ -575,6 +575,10 @@
         text-align: center;
     }
 
+    .monte_intro {
+        padding: 40px 0;
+    }
+
     section.luxury-main.unique-main {
         margin-top: 50px;
     }
@@ -600,7 +604,7 @@
         color: var(--white);
         text-transform: capitalize;
         font-weight: 600;
-        font-size: inherit!important;
+        font-size: inherit !important;
         position: relative;
         display: inline-block;
     }
