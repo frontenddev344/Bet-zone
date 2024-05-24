@@ -442,6 +442,9 @@
     }
 
     /* sub pages css end here */
+    .banner-bottom-txt a {
+        color: var(--dark-pink);
+    }
 
     /* footer section css start here */
     .site-footer {
