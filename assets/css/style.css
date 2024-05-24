@@ -579,6 +579,10 @@
         padding: 40px 0;
     }
 
+    .into_text p {
+        text-align: center;
+    }
+
     section.luxury-main.unique-main {
         margin-top: 50px;
     }
